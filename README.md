@@ -22,7 +22,7 @@ Eight projects. Eight different problems. One through-line: *data should feel li
     <td width="50%" valign="top">
       <h3>📊 Commercial &nbsp;·&nbsp; <em>SPSS Alternative</em></h3>
       <p>Stats tools shouldn't cost $99/month or require a PhD to run a t-test. Building the open, visual alternative.</p>
-      <sub><a href="https://github.com/cbrown564-alt/insightos-analytics-studio">insightos-analytics-studio</a> · TypeScript</sub>
+      <sub>Private App named Velocity - in dev</a> · TypeScript | WASM</sub>
     </td>
   </tr>
   <tr>
