@@ -51,7 +51,7 @@ Eight projects. Eight different problems. One through-line: *data should feel li
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 Skill Extender &nbsp;·&nbsp; <em>ML Lab</em></h3>
+      <h3>🧠 Skill Building &nbsp;·&nbsp; <em>University Assignments</em></h3>
       <p>My actual notebooks — experiments, models, the things I'm learning. Messy in places. Real everywhere.</p>
       <sub><a href="https://github.com/cbrown564-alt/Assignment">Assignment</a> · Python / Jupyter</sub>
     </td>
