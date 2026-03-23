@@ -53,7 +53,7 @@ Eight projects. Eight different problems. One through-line: *data should feel li
     <td width="50%" valign="top">
       <h3>🧠 Skill Building &nbsp;·&nbsp; <em>University Assignments</em></h3>
       <p>My actual notebooks — experiments, models, the things I'm learning. Messy in places. Real everywhere.</p>
-      <sub><a href="https://github.com/cbrown564-alt/Assignment">Assignment</a> · Python / Jupyter</sub>
+      <sub><a href="https://github.com/cbrown564-alt/qub-msc-ai">MSc AI assignments</a> · Python / Jupyter</sub>
     </td>
     <td width="50%" valign="top">
       <h3>🗺️ History &nbsp;·&nbsp; <em>The Troubles</em></h3>
