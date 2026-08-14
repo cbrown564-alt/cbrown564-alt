@@ -1,84 +1,75 @@
-# cbrown564
+# Conor Brown
 
-**data scientist. full-stack builder. compulsive spreadsheet-to-app converter.**
+**Applied AI and data products for messy real-world workflows.**
 
-I wire up AI to things that should probably stay as spreadsheets — but don't. My projects span education, analytics, culture, and a few things that defy easy categorization.
+I build reliable systems where data quality, evidence, human review and auditability matter — then turn them into interfaces people can actually use.
 
----
+My work sits at the intersection of AI, healthcare, data engineering, and interactive product design.
 
-## what i'm building
+## Flagship
 
-Eight projects. Eight different problems. One through-line: *data should feel like something.*
+### [Clinical Extraction](https://github.com/cbrown564-alt/clinical_extraction)
+**Active research package · healthcare AI · [live workbench](https://clinical-extraction.vercel.app)**
 
-<br>
+A hybrid LLM + rules system for extracting structured facts from epilepsy clinic letters. It compares deterministic, LLM-only and hybrid methods, with evidence checking, bounded repair, reproducible evaluation and explicit claim limits.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧑‍💼 Personal &nbsp;·&nbsp; <em>CV</em></h3>
-      <p>An interactive résumé — because a PDF is a dead document and I'm a living one.</p>
-      <sub>coming soon</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 Commercial &nbsp;·&nbsp; <em>SPSS Alternative</em></h3>
-      <p>Stats tools shouldn't cost $99/month or require a PhD to run a t-test. Building the open, visual alternative.</p>
-      <sub>Private App named Velocity - in dev</a> · TypeScript | WASM</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌍 Viral? &nbsp;·&nbsp; <em>World Values Survey</em></h3>
-      <p>60+ countries. 400+ questions. Most people don't know it exists. I want to change that with something actually worth sharing.</p>
-      <sub>coming soon</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎲 Educational &nbsp;·&nbsp; <em>Probability App</em></h3>
-      <p>Multi-modal iOS app for learning probability — visualizations, simulations, the works. Because stats intuition is learnable.</p>
-      <sub><a href="https://github.com/cbrown564-alt/Stochastic">Stochastic</a> · Swift</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>😏 Playful &nbsp;·&nbsp; <em>Pleasure Vocab</em></h3>
-      <p>A vocabulary app about women's pleasure. Language shapes what people can think and talk about — this helps with both.</p>
-      <sub><a href="https://github.com/cbrown564-alt/pleasure_vocab">pleasure_vocab</a> · TypeScript</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎨 Visual &nbsp;·&nbsp; <em>Nexus UI</em></h3>
-      <p>A registry of AI-generated UI components and templates. What does a design system look like when it's grown, not made?</p>
-      <sub><a href="https://nexus-component-registry.vercel.app">live demo</a> &nbsp;·&nbsp; <a href="https://github.com/cbrown564-alt/Nexus-Component-Registry">Nexus-Component-Registry</a> · TypeScript</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 Skill Building &nbsp;·&nbsp; <em>University Assignments</em></h3>
-      <p>My actual notebooks — experiments, models, the things I'm learning. Messy in places. Real everywhere.</p>
-      <sub><a href="https://github.com/cbrown564-alt/qub-msc-ai">MSc AI assignments</a> · Python / Jupyter</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🗺️ History &nbsp;·&nbsp; <em>The Troubles</em></h3>
-      <p>An interactive exploration of the conflict in Northern Ireland — geographic maps, timelines, vignettes. History as an experience, not a Wikipedia scroll.</p>
-      <sub>coming soon</sub>
-    </td>
-  </tr>
-</table>
+## Applied systems
 
----
+### [Home Inventory](https://github.com/cbrown564-alt/inventory)
+**Working prototype · physical-world AI**
 
-## tools of the trade
+An AI-assisted property-inventory workflow that turns walkthrough video into a reviewable, evidence-linked report. The human reviews and signs; the system supplies the draft, provenance and audit trail.
 
-`TypeScript` &nbsp;`Python` &nbsp;`Swift` &nbsp;`React` &nbsp;`Jupyter` &nbsp;`AI/LLMs` &nbsp;`SQL`
+### [Velocity](https://github.com/cbrown564-alt/Velocity)
+**Active product prototype · local-first analytics · [live app](https://velocity-eight-kohl.vercel.app)**
 
----
+A browser-based alternative to legacy survey-analysis software, with local-first ingestion, DuckDB-WASM computation, weighting, crosstabs, significance testing and editable exports.
 
-## other things i've shipped
+### [UnitedStats / Red Thread](https://github.com/cbrown564-alt/unitedstats)
+**Deployed data product · open data · [live site](https://utdred.com)**
 
-- [**academic_audit_pro**](https://github.com/cbrown564-alt/academic_audit_pro) — AI-powered assessment of academic reports against assignment briefs
-- [**project-explorer**](https://github.com/cbrown564-alt/project-explorer) — a better way to explore dissertation topics
-- [**CareNavigator**](https://github.com/cbrown564-alt/CareNavigator) — healthcare navigation app
-- [**Zambian-Circular-Economy**](https://github.com/cbrown564-alt/Zambian-Circular-Economy) — data + storytelling for sustainability
-- [**Plataforma-Guajira-Emprende**](https://github.com/cbrown564-alt/Plataforma-Guajira-Emprende) — entrepreneurship platform for the Guajira region
+A versioned, auditable dataset and interface covering Manchester United matches since 1886, with deterministic ingestion, coverage ledgers, source provenance, a public API and downloadable datasets.
 
----
+## Learning and interactive systems
 
-*always building something. always turning data into something you can feel.*
+### [QUB MSc AI](https://github.com/cbrown564-alt/qub-msc-ai)
+**Active academic portfolio · [case-study index](https://cbrown564-alt.github.io/qub-msc-ai/case-studies.html)**
+
+Coursework spanning machine learning, computer vision, NLP, knowledge engineering, biomedical data and AI for health.
+
+### [ML Lab](https://github.com/cbrown564-alt/ml-lab)
+**Active interactive learning product · [live lab](https://ml-lab-xi.vercel.app)**
+
+Hands-on exhibits for building machine-learning intuition: see a concept, run it, break it, and explain what happened.
+
+### [An Turas](https://github.com/cbrown564-alt/an-turas)
+**Active product development · Irish language, culture and history**
+
+An iOS learning experience that connects Gaeilge to the people, places, stories and records of all 32 counties.
+
+### [Mathland](https://github.com/cbrown564-alt/mathland)
+**Active product rebuild · [live prototype](https://cbrown564-alt.github.io/mathland/)**
+
+An explorable mathematical world for adults moving towards physics, engineering, machine learning, AI or finance.
+
+### [The Shape of Intelligence](https://github.com/cbrown564-alt/intelligence)
+**Completed visual essay · [live essay](https://intelligence-five-xi.vercel.app)**
+
+An accessible, interactive essay about what different interfaces reveal and obscure when people encounter machine intelligence.
+
+### [Notice & Name](https://github.com/cbrown564-alt/notice-and-name)
+**Active native-app development**
+
+A private, local-first iOS app for building a precise vocabulary around sexual pleasure, with a validated editorial content pipeline and on-device persistence.
+
+## The through-line
+
+Across these projects, I keep returning to the same question:
+
+> How do we make complex, messy or expert knowledge structured enough to inspect — and human enough to use?
+
+## Tools
+
+`Python` · `TypeScript` · `Swift` · `React` · `SQL` · `DuckDB-WASM` · `Jupyter` · `PyTorch` · `LLMs`
+
+More experiments and earlier work remain in the repository history. The projects above are the current public portfolio.
