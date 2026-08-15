@@ -60,7 +60,7 @@ An accessible, interactive essay about what different interfaces reveal and obsc
 ### [Notice & Name](https://github.com/cbrown564-alt/notice-and-name)
 **Active native-app development**
 
-A private, local-first iOS app for building a precise vocabulary around sexual pleasure, with a validated editorial content pipeline and on-device persistence.
+A local-first iOS app for building a precise vocabulary around sexual pleasure, with a validated editorial content pipeline and on-device persistence.
 
 ## The through-line
 
