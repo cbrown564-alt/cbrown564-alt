@@ -9,7 +9,7 @@ My work sits at the intersection of AI, healthcare, data engineering, and intera
 ## Flagship
 
 ### [Clinical Extraction](https://github.com/cbrown564-alt/clinical_extraction)
-**Active research package · healthcare AI · [live workbench](https://clinical-extraction.vercel.app)**
+**Active research package · healthcare AI · [live workbench](https://clinical-extraction.empty-union-f39d.workers.dev)**
 
 A hybrid LLM + rules system for extracting structured facts from epilepsy clinic letters. It compares deterministic, LLM-only and hybrid methods, with evidence checking, bounded repair, reproducible evaluation and explicit claim limits.
 
