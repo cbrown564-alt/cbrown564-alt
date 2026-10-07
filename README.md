@@ -21,7 +21,7 @@ A hybrid LLM + rules system for extracting structured facts from epilepsy clinic
 An AI-assisted property-inventory workflow that turns walkthrough video into a reviewable, evidence-linked report. The human reviews and signs; the system supplies the draft, provenance and audit trail.
 
 ### [Velocity](https://github.com/cbrown564-alt/Velocity)
-**Active product prototype · local-first analytics · [live app](https://velocity-eight-kohl.vercel.app)**
+**Active product prototype · local-first analytics · [live app](https://researchvelocity.co.uk)**
 
 A browser-based alternative to legacy survey-analysis software, with local-first ingestion, DuckDB-WASM computation, weighting, crosstabs, significance testing and editable exports.
 
@@ -48,12 +48,12 @@ Hands-on exhibits for building machine-learning intuition: see a concept, run it
 An iOS learning experience that connects Gaeilge to the people, places, stories and records of all 32 counties.
 
 ### [Mathland](https://github.com/cbrown564-alt/mathland)
-**Active product rebuild · [live prototype](https://cbrown564-alt.github.io/mathland/)**
+**Active product rebuild · [live prototype](https://mathland.empty-union-f39d.workers.dev/)**
 
 An explorable mathematical world for adults moving towards physics, engineering, machine learning, AI or finance.
 
 ### [The Shape of Intelligence](https://github.com/cbrown564-alt/intelligence)
-**Completed visual essay · [live essay](https://intelligence-five-xi.vercel.app)**
+**Completed visual essay · [live essay](https://intelligence.empty-union-f39d.workers.dev/)**
 
 An accessible, interactive essay about what different interfaces reveal and obscure when people encounter machine intelligence.
 
