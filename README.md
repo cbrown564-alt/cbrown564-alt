@@ -38,7 +38,7 @@ A versioned, auditable dataset and interface covering Manchester United matches 
 Coursework spanning machine learning, computer vision, NLP, knowledge engineering, biomedical data and AI for health.
 
 ### [ML Lab](https://github.com/cbrown564-alt/ml-lab)
-**Active interactive learning product · [live lab](https://ml-lab-xi.vercel.app)**
+**Active interactive learning product · [live lab](https://ml-lab.empty-union-f39d.workers.dev)**
 
 Hands-on exhibits for building machine-learning intuition: see a concept, run it, break it, and explain what happened.
 
